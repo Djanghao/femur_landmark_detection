@@ -1,0 +1,4 @@
+dataset:
+  dataset_pth : '../dataset/femur/'
+  num_landmarks : 19
+  eval_radius : [2, 3, 4, 5]
